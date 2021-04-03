@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Main menu.unity
+    guid: 9abe38e39dc1c4f4d88b9b545a3e2c4d
+  - enabled: 1
+    path: Assets/Start menu.unity
+    guid: f742217485d9224418c9015f1c14b417
+  - enabled: 1
+    path: Assets/Scenes/Soma CubeSCENE1.unity
+    guid: 9f45efc668fc83041af126fa9472eecf
+  - enabled: 1
+    path: Assets/SomaCubeswapped colors.unity
+    guid: 5284458857390f2479050f03ade2f804
+  - enabled: 1
+    path: Assets/Scenes/Wooden 1 shade.unity
+    guid: 4fa1f56883aacec44a0e1268ca90886d
+  - enabled: 1
+    path: Assets/Scenes/Meandering Line 1.unity
+    guid: 64ad8d7041e2c334c99648764b052b0a
+  - enabled: 1
+    path: Assets/Scenes/Wooden two shades.unity
+    guid: bde519f2f12c33b4cab04f424224db43
+  m_configObjects: {}

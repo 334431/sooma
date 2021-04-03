@@ -1,0 +1,16 @@
+sceneSetups:
+- path: Assets/Scenes/Wooden two shades.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/Meandering Line 1.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Scenes/Soma CubeSCENE1.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/SomaCubeswapped colors.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Wooden 1 shade.unity
+  isLoaded: 1
+  isActive: 0
